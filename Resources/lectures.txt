@@ -1,0 +1,19 @@
+UNAL:
+
+- Orden de la complejidad de algoritmos
+  https://www.youtube.com/watch?v=HdZbPqYKafU
+
+
+MIT:
+
+- Dynamic Programming I: Fibonacci, Shortest Paths
+  https://www.youtube.com/watch?v=OQ5jsbhAv_M&t
+
+- Algorithmic Thinking, Peak Finding
+  https://www.youtube.com/watch?v=HtSuA80QTyo&t
+
+
+HARVARD:
+
+- Advanced Algorithms (COMPSCI 224), Lecture 1
+  https://www.youtube.com/watch?v=0JUN9aDxVmI&t
