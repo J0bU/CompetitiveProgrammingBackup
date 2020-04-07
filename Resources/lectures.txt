@@ -17,3 +17,36 @@ HARVARD:
 
 - Advanced Algorithms (COMPSCI 224), Lecture 1
   https://www.youtube.com/watch?v=0JUN9aDxVmI&t
+
+GROUPS 
+
+- Bogotá
+  https://www.facebook.com/groups/maratonesunbogota/
+
+- Medellín
+  https://www.facebook.com/groups/440510500084373/
+
+
+ALEJANDRO'S RESOURCES
+
+- Por ejemplo, aqui pueden crear sus propias competencias: https://vjudge.net/
+
+- Les recomiendo este libro, ya tiene separados los temas enfocados a programacion competitiva
+https://www.goodreads.com/book/show/22820968-competitive-programming-3
+
+- Tambien los cursos de coursera: https://www.coursera.org/learn/algorithms-greedy
+(podes ver que ese profesor tiene muchos mas)
+
+- De aqui tambien podes estudiar bastantes cosas: https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+
+- Pero claro que si. De hecho yo cuando empece con todo lo de algoritmos, fue cuando estaba en octavo semestre de la carrera.
+Esta pagina es muy buena: https://uhunt.onlinejudge.org/id/91667, podes encontrar ejercicios por categorias y niveles (de hecho ese es mi usuario)
+Y es basado en el libro que ellos mismos escribieron: https://sites.google.com/site/stevenhalim/
+
+OTHERS
+
+- COMPETITIVE PROGRAMMING UNAL
+  https://sites.google.com/view/programacion-unal/inicio?authuser=0
+
+- ICESI
+  https://www.icesi.edu.co/unicesi/todas-las-noticias/4109-conoce-el-club-de-programacion-competitiva
