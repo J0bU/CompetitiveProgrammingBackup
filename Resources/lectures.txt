@@ -50,3 +50,21 @@ OTHERS
 
 - ICESI
   https://www.icesi.edu.co/unicesi/todas-las-noticias/4109-conoce-el-club-de-programacion-competitiva
+
+- COLOMBIAN COLLEGIATE PROGRAMMING LEAGUE 2020 
+  https://www.programmingleague.org/
+
+- RPC (RED PROGRAMACIÓN COMPETITIVA - NIVEL LATINOAMERICANO)
+  https://twitter.com/redprogramacion?lang=es
+
+- COMPETITIVE PROGRAMMING CHANNEL UNAL MED
+  https://www.youtube.com/channel/UCaYpWHIuUtIDFQmqK1UCsbQ/videos
+
+- WHATSAPP UNAL MED 1
+  https://chat.whatsapp.com/LSQK4Rb5Vq9F5fFML0gtGY?fbclid=IwAR12fCs5Qd-Du9_cjwUndpgsBU6DM6x6bjGEvBEz9mw3nTI5H2u6Zj39Z5c
+
+- ¡IMPORTANT!
+  https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/?fbclid=IwAR1cPatjSdfbBYkdtRKIk7OuIA3DlhFOLYe7e5vzznfmT50_D_S6ktoHjMo
+
+-  DATA STRUCTURES ANIMATED LEARNING
+  https://visualgo.net/en?fbclid=IwAR1Ny4XyExvs1ZGlWsGwB-Ji_6rfjeGITDzXhhbk50gaUf3KTFVG70GrCYo
